@@ -54,8 +54,6 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
     /**
      * Keep track of the login task to ensure we can cancel it if requested.
      * fczsergsegbdrbd
-     *
-     * drndr
      */
     private UserLoginTask mAuthTask = null;
 
