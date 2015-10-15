@@ -13,6 +13,10 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
     }
 
     public void testPreconditions() {
-        assertNotNull("Activity is null", null);
+        assertNotNull("Activity is null", getApplication());
+    }
+
+    public  void testFail(){
+        fail("easgaes");
     }
 }
