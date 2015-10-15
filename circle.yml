@@ -1,6 +1,6 @@
 machine:
   environment:
-    ANDROID_HOME: /usr/local/android-sdk-linux
+    ANDROID_HOME: /Volumes/MacHD/Android/sdk
     GRADLE_OPTS: -Xmx512m
 
 dependencies:
