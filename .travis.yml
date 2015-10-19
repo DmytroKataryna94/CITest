@@ -16,7 +16,5 @@ notifications:
   email:
     - dmytro.kataryna@teamvoy.com
     - kataryna.dmytro@gmail.com
-    on_success: always
-    on_failure: change
 
 script: ./gradlew assembleDebug
