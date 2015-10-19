@@ -1,7 +1,9 @@
 language: android
 android:
    components:
-   - platform-tools
-   - android-23
    - build-tools-23.0.1
-   - extra
+   
+  notifications:
+  email: false
+  
+  script: ./gradlew clean build
