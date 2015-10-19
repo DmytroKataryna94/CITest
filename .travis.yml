@@ -2,8 +2,3 @@ language: android
 android:
    components:
    - build-tools-23.0.1
-   
-  notifications:
-  email: false
-  
-  script: ./gradlew clean build
