@@ -11,5 +11,10 @@ android:
 
     # The SDK version used to compile your project
     - android-21
+    
+  notifications:
+  email:
+    - one@example.com
+    - other@example.com
 
 script: ./gradlew assembleDebug
