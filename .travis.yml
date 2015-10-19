@@ -14,7 +14,6 @@ android:
     
   notifications:
   email:
-    - one@example.com
-    - other@example.com
+    - dmytro.kataryna@teamvoy.com
 
 script: ./gradlew assembleDebug
