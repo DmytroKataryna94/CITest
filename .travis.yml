@@ -18,3 +18,5 @@ notifications:
   email:
     - dmytro.kataryna@teamvoy.com
     - kataryna.dmytro@gmail.com
+
+script: ./gradlew assembleDebug
