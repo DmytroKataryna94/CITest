@@ -19,4 +19,4 @@ notifications:
     - dmytro.kataryna@teamvoy.com
     - kataryna.dmytro@gmail.com
 
-script: ./gradlew assembleDebug
+script: ./gradlew connectedAndroidTest
