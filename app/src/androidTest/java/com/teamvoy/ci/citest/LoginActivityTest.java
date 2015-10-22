@@ -23,7 +23,8 @@ public class LoginActivityTest extends ActivityInstrumentationTestCase2<LoginAct
         assertNotNull("activity", activity);
     }
 
-    public void testACt2() {
-        assertNull("activity", activity);
-    }
+//    public void testACt2() {
+//        assertNull("activity", activity);
+//    }
+
 }
